@@ -1,0 +1,42 @@
+══════════════════════════════════════════════════════════════════════
+               ADAPTIVE SIGNALS & MULTI-MODEL VALUATION
+══════════════════════════════════════════════════════════════════════
+Ticker: AAPL    Date: 2025-10-15    Last Price: $249.34
+──────────────────────────────────────────────────────────────────────
+                          Technical Signals
+──────────────────────────────────────────────────────────────────────
+Signal: HOLD
+Risk Filters:
+  • VIX above dynamic threshold (20.4)
+Notes:
+  • Trend: UP (Close=249.34, 50D=239.73, 200D=221.76)
+  • ATR(14)=4.37 → ex. stop ≈ 240.60 (2.0×ATR).
+Position Sizing: Risk/Share ≈ $8.74. Size so total $risk stays within your limit.
+──────────────────────────────────────────────────────────────────────
+                        Yield-Based Valuation
+──────────────────────────────────────────────────────────────────────
+Annual Dividend (TTM): $1.52 | Current Yield: 0.62%
+Scenarios (Band Yield → Fair, Price Return, Total Return):
+  Bull  |  0.35% → $  438.93,   77.8%,   78.4%
+  Base  |  0.68% → $  222.78,   -9.8%,   -9.2%
+  Bear  |  0.90% → $  169.04,  -31.5%,  -30.9%
+Probability-Weighted 12-mo Total Return: -0.36%
+Bands (Bull / Base / Bear): 0.35% / 0.68% / 0.90%
+Yield Sample Size: 1256 | Current-Yield Percentile: 30.4th
+──────────────────────────────────────────────────────────────────────
+                        Other Valuation Lenses
+──────────────────────────────────────────────────────────────────────
+DDM Fair:     $15.14
+FCF Fair:     $n/a
+RevDCF Fair:  $n/a
+──────────────────────────────────────────────────────────────────────
+                            Ensemble View
+──────────────────────────────────────────────────────────────────────
+Ensemble Fair (winsorized mean): $118.96
+Shareholder Yield (approx): 3.01%
+Expected 12-month total return (ensemble): -33.60%
+──────────────────────────────────────────────────────────────────────
+                         Regime Probabilities
+──────────────────────────────────────────────────────────────────────
+Bull / Base / Bear: 0.20 / 0.40 / 0.40
+══════════════════════════════════════════════════════════════════════
